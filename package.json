@@ -1,16 +1,17 @@
 {
-  "name": "bunvite",
+  "name": "sticky",
   "version": "1.0.0",
-  "description": "Blazing-fast zero-dependency Vite alternative powered purely by Bun.",
+  "description": "Tactile, freeform sticky note canvas with collectible rarity tiers, physics, and custom disappearance effects.",
   "license": "MIT",
   "author": "Nicat Bayramov",
   "keywords": [
+    "sticky-notes",
+    "canvas",
+    "physics",
+    "rarity",
     "bun",
-    "vite",
     "typescript",
-    "tailwindcss",
-    "starter",
-    "template"
+    "tailwindcss"
   ],
   "repository": {
     "type": "git",
