@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build outputs & caches
+dist/
+build/
+out/
+.cache/
+.bin/
+*.tsbuildinfo
+
+# Logs & test artifacts
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.system_generated/
+coverage/
+screenshots/
+
+# graphify knowledge graph output
+graphify-out/

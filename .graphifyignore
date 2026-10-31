@@ -1,0 +1,2 @@
+# Keep the graph about this project: skip graphify's own skill docs
+.agents/skills/graphify/
