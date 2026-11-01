@@ -52,6 +52,24 @@ bun run build
 bun run preview
 ```
 
+### Native macOS App (.app)
+
+Build a self-contained, native macOS application bundle with dark titlebar, keyboard shortcuts, and `cmd+w` support:
+
+```bash
+# Build Sticky.app into dist-app/Sticky.app
+bun run build:app
+
+# Build and copy directly to /Applications
+bun run install:app
+```
+
+Alternatively, copy manually:
+
+```bash
+cp -R dist-app/Sticky.app /Applications/
+```
+
 ### Tests & Verification
 
 ```bash

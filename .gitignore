@@ -8,6 +8,8 @@ Thumbs.db
 
 # Build outputs & caches
 dist/
+dist-app/
+*.app/
 build/
 out/
 .cache/
